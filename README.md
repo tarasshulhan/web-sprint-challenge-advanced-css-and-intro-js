@@ -23,20 +23,24 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
     Acessibility is about allowing as many people as possible to use your product; it includes people with disabilites,
     such as those with vision or hearing problems, the elderly, people with poor internet connections, and those that only
     have access to mobile devices.
 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
     It is important to use semantic html and fill in all the alt text on images, so that screen readers can properly navigate
     your website. The right typography and contrast levels are also important. You should also not use large files, to make sure
     the website can load in a reasonable amount of time on a poor internet connection.
 
 3. How would you explain the concept of a variable to someone new to programming?
+
     A variable in programming is a way to give a name to a piece of computer memory and assign some data (or nothing) to that piece of memory.
     The data can later be changed or deleted by the program if needed. 
 
 4. What is the purpose of using functions in code?
+
    "Functions are a way to protect a block of code until they are invoked." (from the study guide) Funcitons also help us reuse code, since we 
    can call the same funtion with different arguments.
 
